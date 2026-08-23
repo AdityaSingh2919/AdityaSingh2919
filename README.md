@@ -4,11 +4,7 @@
   BTech CSE Student | Aspiring Software Developer | DSA & Web Development
 </h3>
 
-<p align="center">
-  <a href="https://github.com/AdityaSingh2919">
-    <img src="https://komarev.com/ghpvc/?username=AdityaSingh2919&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  </a>
-</p>
+
 
 ---
 
@@ -86,13 +82,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaSingh2919&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSingh2919&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
@@ -116,11 +105,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSingh2
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaSingh2919&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
 
 ---
 
