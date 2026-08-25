@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 
 <h3 align="center">
-BTech CSE Student | Aspiring Software Developer | DSA & Web Development
+  BTech CSE Student | Aspiring Software Developer | DSA & Web Development
 </h3>
+
+
 
 ---
 
@@ -16,7 +18,7 @@ BTech CSE Student | Aspiring Software Developer | DSA & Web Development
 
 ---
 
-## 🤝 Connect with Me
+<h3 align="left">🤝 Connect with me</h3>
 
 <p align="left">
 
@@ -80,48 +82,25 @@ BTech CSE Student | Aspiring Software Developer | DSA & Web Development
 
 ---
 
+
+---
+
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=AdityaSingh2919&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
+
+<img src="https://streak-stats.demolab.com/?user=AdityaSingh2919&theme=tokyonight" />
+
 </p>
 
 ---
 
 # 📈 Contribution Activity Graph
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSingh2919&theme=tokyo-night&hide_border=true" 
-    alt="GitHub Activity Graph"
-  />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSingh2919&theme=tokyo-night" />
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AdityaSingh2919/AdityaSingh2919/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AdityaSingh2919/AdityaSingh2919/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/AdityaSingh2919/AdityaSingh2919/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
 
 ---
 
@@ -167,6 +146,15 @@ BTech CSE Student | Aspiring Software Developer | DSA & Web Development
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdityaSingh2919/AdityaSingh2919/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 <h3 align="center">
 ⭐ From Aditya Singh ⭐
 </h3>
+ 
