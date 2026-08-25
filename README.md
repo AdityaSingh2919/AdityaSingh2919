@@ -89,9 +89,7 @@
 
 <p align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=AdityaSingh2919&theme=tokyonight"
-/>
+<img src="https://streak-stats.demolab.com/?user=AdityaSingh2919&theme=tokyonight" />
 
 </p>
 
@@ -99,8 +97,8 @@ src="https://streak-stats.demolab.com?user=AdityaSingh2919&theme=tokyonight"
 
 # 📈 Contribution Activity Graph
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSingh2919&theme=tokyo-night&hide_border=true"
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=AdityaSingh2919&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
 />
 
 ---
