@@ -86,13 +86,13 @@
 
 ---
 
-# 🔥 Contribution Streak
+---
 
-<p align="center">
+## 📈 Contribution Activity Graph
 
-<img src="https://streak-stats.demolab.com/?user=AdityaSingh2919&theme=tokyonight" />
+[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaSingh2919&theme=tokyo-night&hide_border=true)](https://github.com/AdityaSingh2919)
 
-</p>
+---
 
 ---
 
