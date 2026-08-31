@@ -96,7 +96,7 @@
 
 ---
 
-<h1 align="center">📈 Contribution Activity Graph</h1>
+<!-- <h1 align="center">📈 Contribution Activity Graph</h1>
 
 <p align="center">
   <img 
@@ -104,7 +104,7 @@
     alt="Aditya's GitHub Contribution Graph"
     width="100%"
   />
-</p>
+</p> -->
 ---
 
 
