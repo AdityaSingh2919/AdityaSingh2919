@@ -96,10 +96,15 @@
 
 ---
 
-# 📈 Contribution Activity Graph
+<h1 align="center">📈 Contribution Activity Graph</h1>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSingh2919&theme=tokyo-night" />
-
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSingh2919&theme=tokyo-night&hide_border=true" 
+    alt="Aditya's GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
 ---
 
 
